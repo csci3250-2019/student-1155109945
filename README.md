@@ -1,8 +1,8 @@
 # Project Milestone 2
 
-### Name:  Ip Chi Hung
+### NAME:  Ip Chi Hung
 ### SID:   1155109945
-### MAjor: Computer Engineering
+### MAJOR: Computer Engineering
 
 ****I am new to github.****
 
