@@ -14,6 +14,13 @@
 * ELTU 2014
 * CENG 2010
 
+## Progarmming languages
+|languages|Level|
+|---------|----|
+|C        |BELOW AVERAGE|
+|C++      |BELOW AVERAGE|
+|Python   |BELOW AVERAGE|
+
 ## Assignment that not yet finish
 
 - [x] CSCI2100 HW4
