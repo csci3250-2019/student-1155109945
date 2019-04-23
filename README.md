@@ -29,5 +29,5 @@ Med Can | Good
 
 ## ScreenShot
 
-![HI](ss1.PNG)
-![HI](ss2.PNG)
+![screenshot1](ss1.PNG)
+![screenshot2](ss2.PNG)
