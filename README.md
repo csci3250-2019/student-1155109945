@@ -29,5 +29,5 @@ Med Can | Good
 
 ## ScreenShot
 
-![screenshot1](ss1.PNG)
-![screenshot2](ss2.PNG)
+![screenshot1](https://github.com/csci3250-2019/student-1155109945/blob/master/ss1.png)
+![screenshot2](https://github.com/csci3250-2019/student-1155109945/blob/master/ss2.png)
